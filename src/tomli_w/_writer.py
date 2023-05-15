@@ -20,8 +20,8 @@ COMPACT_ESCAPES = MappingProxyType(
         "\u000A": "\\n",  # linefeed
         "\u000C": "\\f",  # form feed
         "\u000D": "\\r",  # carriage return
-        "\u0022": '"',  # quote
-        "\u005C": "\\",  # backslash
+        # "\u0022": '"',  # quote
+        # "\u005C": "\\",  # backslash
     }
 )
 
